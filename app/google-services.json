@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435896125224",
+    "project_id": "fir-app-f7621",
+    "storage_bucket": "fir-app-f7621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435896125224:android:dd62b2a552e86cff64321d",
+        "android_client_info": {
+          "package_name": "com.paweljablonski.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435896125224-fid9rrbrbhv9elv615cs2kif3umereoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paweljablonski.myapplication",
+            "certificate_hash": "f489ccbe380c71287c82911c725baff2ccd74809"
+          }
+        },
+        {
+          "client_id": "435896125224-hp4vqpotpb7etdj14gvbg147toolpg6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQkt5ynp-_TZ-OX2G7BgBK5i_KqIMNbuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435896125224-hp4vqpotpb7etdj14gvbg147toolpg6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
